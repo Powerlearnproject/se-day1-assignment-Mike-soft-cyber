@@ -45,7 +45,11 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 - Version Control Systems provide tools for tracking the source code. For example Git.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
+The common challenges include:
+- Changes in the requiremnts during the development of the software.
+- Having tight deadlines to deliver the project which can lead to unwanted quality.
+- Staying up to date with the latest technology trends.
+To overcome these challenges include effective communication, using agile methodologies, and using scalable architecture. 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
