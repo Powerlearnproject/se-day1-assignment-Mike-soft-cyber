@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
--Software engineering is a field of computer science that deals with designing, developing, deploying, and maintaining of high quality software products.
+- Software engineering is a field of computer science that deals with designing, developing, deploying, and maintaining of high quality software products.
 It's importances in the technology industry are:
 - Reliability: It is able to function as it is intended to do.
 - Scalability: it can handle increased load while still functioning properly with no problems.
@@ -16,16 +16,33 @@ Identify and describe at least three key milestones in the evolution of software
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+- Requirements: Gathering information about the users' needs and the system requirements.
+- Design: Creating a high level detailed design of the requirements gathered.
+- Implementation: Writing the code of the design discussed previously.
+- Testing: Conducting various tets to see whether the software performs its intended purpose and provide quality assurance.
+- Deployment: The software is released for the users to use it.
+- Maintenance: provides ongoing support of the software and provide updates on it.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+Software Developer
+- Creating applications and programs using programming languages and frameworks
+- Working with team members to ensure high quality results
+- Reporting their work to the project manager for progress
+Quality Assurance
+- Work with stakeholders to identify the software requirments
+- Analyze the software product to see if there are bugs that need to be removed.
+- Tests the software product before its deployment.
+Product Manager
+- Discusses the project and its requirements with the client and the software developers.
+- Tracks the progres the project.
+- Releases the software project to the client and monitors its performance.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
+- Integrated Development Environments(IDEs) provide tools for writing, debugging, and testing code. Example is Visual Studio Code.
+- Version Control Systems provide tools for tracking the source code. For example Git.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
