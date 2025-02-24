@@ -8,9 +8,9 @@ Explain what software engineering is and discuss its importance in the technolog
 
 -Software engineering is a field of computer science that deals with designing, developing, deploying, and maintaining of high quality software products.
 It's importances in the technology industry are:
--Reliability: It is able to function as it is intended to do.
--Scalability: it can handle increased load while still functioning properly with no problems.
--Security: provides protection through authentication, authorization, and security of user information.
+- Reliability: It is able to function as it is intended to do.
+- Scalability: it can handle increased load while still functioning properly with no problems.
+- Security: provides protection through authentication, authorization, and security of user information.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
