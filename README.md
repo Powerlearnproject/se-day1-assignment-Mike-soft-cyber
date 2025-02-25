@@ -5,7 +5,6 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
 - Software engineering is a field of computer science that deals with designing, developing, deploying, and maintaining of high quality software products.
 It's importances in the technology industry are:
 - Reliability: It is able to function as it is intended to do.
@@ -13,7 +12,9 @@ It's importances in the technology industry are:
 - Security: provides protection through authentication, authorization, and security of user information.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
+- Mastering complexity
+- Mastering process
+- Maastering machine
 
 List and briefly explain the phases of the Software Development Life Cycle.
 - Requirements: Gathering information about the users' needs and the system requirements.
@@ -24,7 +25,9 @@ List and briefly explain the phases of the Software Development Life Cycle.
 - Maintenance: provides ongoing support of the software and provide updates on it.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
+- Waterfall methodology is the sequential approach to the softeare development life cycle while agile methodology is the iterative approach.
+- Waterfall methodology has low flexibility while agile has high fexibility
+- In waterfall methodology changes are hard to happen at the end of the phase while agile can adapt to changing requirements
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Software Developer
@@ -52,12 +55,21 @@ The common challenges include:
 To overcome these challenges include effective communication, using agile methodologies, and using scalable architecture. 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
+- Unit testing: It involves testing each component of a software.
+- System testing: It involves testing the entire software.
+- Integration testing: It involves testing interaction between different components of the system
+- Acceptance testing: It involves testing the software to make sure it meets user requirements.
+Importance: It makes sure the software meeds the desired quality standards and functional requirements
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+- Prompt engineering involves creating questions or statements to get the best response from AI models.
+- Its importance in interacting with AI models is that it helpsimprove interactions between AI and humans. 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Draw a picture of students in a classroom with a teacher in front of the class teaching.
+- Clear: the improved prompt specifies what is being asked.
+- Specific: Describes the appearance of the classroom, the color of the students' uniform and what the teacher is wearing.
+- Concise: Provides additional details like what was the teacher writing on the board.
